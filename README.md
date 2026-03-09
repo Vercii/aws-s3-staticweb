@@ -9,6 +9,8 @@ This is my first static website hosted on **Amazon S3**.
 You can view the website here:  
 [My Website](https://renzo-aws-first-web.s3.us-east-1.amazonaws.com/index.html)
 
+![Website Screenshot](screenshot.png)
+
 ---
 
 ## Project Overview
